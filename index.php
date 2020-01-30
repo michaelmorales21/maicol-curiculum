@@ -1,3 +1,3 @@
 <?php
-  include_once("papina.html");
+  include_once("pagina.html");
 ?>
